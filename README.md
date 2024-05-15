@@ -16,8 +16,8 @@ End the program
 ## Program:
 ```
 #Program to find the solution for the given linear algebra equation
-#Developed by: T.KAVINAJAI
-#Register number: 212223100020
+#Developed by: ROGITH GANESH.R
+#Register number: 212223100046
 
 import numpy as np
 a=np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
